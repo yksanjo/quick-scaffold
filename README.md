@@ -1,5 +1,10 @@
 # quick-scaffold
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![GitHub](https://img.shields.io/github/stars/yksanjo/quick-scaffold?style=social)
+
 A powerful CLI tool to quickly scaffold new projects with common configurations. Save hours of boilerplate setup and start coding faster.
 
 ## Features
